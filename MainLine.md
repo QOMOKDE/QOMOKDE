@@ -14,6 +14,7 @@
 
 >第七步：做成liveCD，ISO文件livecd-creator。
 
+***
 
 # qomoKDE桌面系统开发方案二
 
