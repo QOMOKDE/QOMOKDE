@@ -1,2 +1,2 @@
-# qomoKDE
-qomo系统的KDE桌面开发。
+# QOMOKDE
+The KDE desktop of the QOMO system.
