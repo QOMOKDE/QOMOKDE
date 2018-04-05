@@ -1,6 +1,6 @@
 Source open source hosted on Github, welcome to participate in maintenance:[https://github.com/QOMOKDE/QOMOKDE]
 
-First, in making `fork` to your warehouse, such as `everyone/loongson_os_customized`，then `clone` To local, and set user information.
+First, in making `fork` to your warehouse, such as `everyone/QOMOKDE`，then `clone` To local, and set user information.
 
 ```sh
 $ git clone https://github.com/QOMOKDE/QOMOKDE.git
